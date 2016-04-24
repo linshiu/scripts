@@ -1,2 +1,2 @@
-# projects
-Miscellaneous projects
+# scripts
+Miscellaneous scripts
