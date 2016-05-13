@@ -1,0 +1,3 @@
+2016-05-13 07:57:35,814 - root - DEBUG - This is a test log message. debug
+2016-05-13 07:57:35,815 - root - INFO - This is a test log message. info
+2016-05-13 07:57:35,817 - root - WARNING - This is a test log message. warn
