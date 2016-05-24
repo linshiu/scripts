@@ -1,0 +1,6 @@
+col1,greater_8,not_even
+1,Ok,Error
+3,Ok,Error
+5,Ok,Error
+7,Ok,Error
+9,Error,Error
